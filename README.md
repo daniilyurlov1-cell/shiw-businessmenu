@@ -16,8 +16,10 @@ Everything is fully customizable and can be modified to suit your needs. It has 
 - Add 'ensure shiw_businessmenu' in the 'Resources.cfg' document
 - Configure
 
-![img1](https://user-images.githubusercontent.com/107937295/182722154-1c2d6250-47a6-4065-9ef2-525afd734066.png)
-![img2](https://user-images.githubusercontent.com/107937295/182722155-7db6ada2-6e05-4ec4-85e5-ea956cf3d86b.png)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c00473ba-0022-47d5-83e6-f5be93436df3" />
+<img width="1914" height="1079" alt="image" src="https://github.com/user-attachments/assets/66eb8398-b18b-46da-9a62-f1b2d8b507bf" />
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/47bb3356-09ca-4b36-b958-87968929c0c1" />
+
 
 
 
